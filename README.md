@@ -1,2 +1,2 @@
 # VBA-Challenge
-Homework Assignment 2
+Homework assignment for Week 2
