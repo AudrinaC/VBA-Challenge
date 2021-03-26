@@ -10,6 +10,9 @@ This project is a VBA scripting to analyze real stock market data.This analysis 
 
 Test Data vbs file & Stock Data vbs file
 
+https://thumbs.gfycat.com/BogusHandsomeGermanpinscher-size_restricted.gif
+
+
 Solution
 The script loop through all the stocks data once and the following information displayed.
 
