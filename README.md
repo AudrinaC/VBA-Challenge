@@ -14,15 +14,19 @@ Solution
 The script loop through all the stocks data once and the following information displayed.
 
 Solution 1 Ticker Symbol
+
 The script will sort the distinct ticker symbol in one column in column "I" with a column header "Ticker.
 
 Solution 2 Yearly Change
+
 The script will excute Yearly change from opening price at the beginning of a given year to the closing price at the end of that year, and put the value on "J" column. For this task the code added a conditional formatting that highlighted positive change in green and negative change in red.
 
 Solution 3 Precent Change
+
 The script also percent perform a change from opening price at the beginning of a given year to the closing price at the end of that year, and put the value on "K" column.
 
 Solution 4 Total stock Volume
+
 The total stock volume also genereated on "L" column.
 
 This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-Trilogy Education Services at The University of North Carolina at Chapel Hill, continuing studies. The code used learning resources from the class.
