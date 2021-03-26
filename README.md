@@ -1,6 +1,7 @@
 # VBA-Challenge
 
-VBA-challenge -The VBA of Wall Street
+VBA-Challenge -The VBA of Wall Street
+
 VBA-Challenge to make a Stock Market Analysis.
 
 Background
@@ -24,4 +25,4 @@ The script also percent perform a change from opening price at the beginning of 
 Solution 4 Total stock Volume
 The total stock volume also genereated on "L" column.
 
-This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-Trilogy Education Services at the University of North Carolina at Chapel Hill, continuing studies. The code used learning resources from the class.
+This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-Trilogy Education Services at The University of North Carolina at Chapel Hill, continuing studies. The code used learning resources from the class.
